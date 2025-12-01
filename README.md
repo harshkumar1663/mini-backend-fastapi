@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Backend – FastAPI Tasks API
 
 Author: Harsh Kumar
@@ -38,3 +39,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
+=======
+# mini-backend-fastapi
+A minimal, production-grade FastAPI backend with CRUD tasks and tests. Tech: FastAPI, Pydantic, Uvicorn, Pytest.
+>>>>>>> 0e1dca1020481ea6d0b25c07a52cfe40c05b9a34
